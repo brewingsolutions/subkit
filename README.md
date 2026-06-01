@@ -2,4 +2,4 @@ SubKit is a free and open source subscription infrastructure for mobile apps. It
 
 SubKit is fully self-hostable. You run it on your own infrastructure, your subscription data stays inside your boundary, and there is no central third party between your app and your users. It ships with a Go backend, native iOS and Android SDKs, and a web dashboard, and it is built on open standards (CloudEvents and OpenAPI 3.1) so it interoperates cleanly with the rest of your stack.
 
-Licensed under AGPL-3.0
+Licensed under AGPL-3.0.
